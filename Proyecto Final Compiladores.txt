@@ -1,0 +1,28 @@
+PROYECTO FINAL DE COMPILADORES
+
+
+Link Repositorio Github con codigo:
+https://github.com/pedronajera93/proyectoFinalCompi
+
+
+Link codigo + Video:
+https://drive.google.com/drive/folders/1dIi46_wqOflWc_QYzqgmPVSrW4q3TvRp?usp=sharing
+
+
+
+Integrantes de grupo:
+
+RONALDO GIRÓN
+CARNÉ: 6590-18-5787
+
+PEDRO NAJERA
+CARNÉ: 6590-14-1016
+
+JOSIMAR GOMEZ
+CARNÉ: 6590-18-11306
+
+JAVIER CRUZ
+CARNÉ: 6590-18-465
+
+PABLO ROSALES
+CARNÉ: 6590-17-3348
